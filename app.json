@@ -1,9 +1,7 @@
 {
   "expo": {
-    "name": "myfirstnativeapp",
-    "slug": "myfirstnativeapp",
-    "privacy": "public",
-    "sdkVersion": "36.0.0",
+    "name": "weatherApp",
+    "slug": "weatherApp",
     "platforms": [
       "ios",
       "android",
